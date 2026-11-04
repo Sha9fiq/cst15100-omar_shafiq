@@ -1,0 +1,6 @@
+dataset,rows_loaded,rows_expected,percent,status
+survey_2026,1187,1200,98.91666666666666,WARNING
+log_batch_01,500,500,100.0,OVER LIMIT
+log_batch_02,480,500,96.0,WARNING
+log_batch_03,420,500,84.0,OK
+log_batch_04,550,500,110.00000000000001,OVER LIMIT
